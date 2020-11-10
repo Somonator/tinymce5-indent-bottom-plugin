@@ -1,5 +1,5 @@
 # Indent bottom plugin for TinyMCE 5
-Manage margin-bottom of block elements.
+Manage inline margin-bottom of block elements.
 
 ## Install
 1. Place the plugin files in the tinymce/plugins directory.
