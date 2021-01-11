@@ -5,6 +5,6 @@ Manage inline margin-bottom of block elements.
 1. Place the plugin files in the tinymce/plugins directory.
 2. Activate plugin and set button to the toolbar:
 ```
-plugins: ['indent_bottomr']
+plugins: ['indent_bottom']
 toolbar: 'indent_bottom'
 ```
